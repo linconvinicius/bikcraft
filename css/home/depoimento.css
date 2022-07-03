@@ -78,6 +78,6 @@
     }
 
     .depoimento p::before {
-        left: 0px;
+        left: -50px;
     }
 }
