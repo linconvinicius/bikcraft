@@ -1,6 +1,6 @@
 # Bikcraft - Bicicletas Elétricas
 
-## Projeto desenvolvido durante o curso de Desenvolvimento Front end da Origamid.
+## Projeto desenvolvido durante o módulo de Desenvolvimento Front end do curso Origamid.
 
 <div align="left">
 
